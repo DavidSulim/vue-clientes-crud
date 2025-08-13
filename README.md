@@ -1,7 +1,5 @@
 # ClientesApi — ASP.NET Core 8 + EF Core + SQLite
 
-[![Build](https://github.com/USERNAME/clientes-api-dotnet/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/clientes-api-dotnet/actions)
-
 # ClientesApi — ASP.NET Core 8 + EF Core + SQLite
 
 ## Requisitos
