@@ -1,5 +1,7 @@
 # ClientesApi — ASP.NET Core 8 + EF Core + SQLite
 
+![image alt](https://github.com/DavidSulim/vue-clientes-crud/blob/6d8ec60a1521fb980f24b5cf13d892038742af3b/img2.png)
+
 # ClientesApi — ASP.NET Core 8 + EF Core + SQLite
 
 ## Requisitos
